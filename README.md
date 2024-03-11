@@ -1,1 +1,23 @@
 # serial_Com_1_Code3
+//# 1
+
+void setup(){
+Serial.begin(9600);
+Serial.println("Hello world!!");
+Serial.println("Hello world!!");
+}
+
+void loop(){
+
+}
+
+# 2
+
+void setup(){
+Serial.begin(9600);
+Serial.println(77);
+}
+
+void loop(){
+
+}
