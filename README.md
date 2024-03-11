@@ -1,5 +1,5 @@
 # serial_Com_1_Code3
-//# 1
+//#1
 
 void setup(){
 Serial.begin(9600);
@@ -11,7 +11,7 @@ void loop(){
 
 }
 
-# 2
+#2
 
 void setup(){
 Serial.begin(9600);
